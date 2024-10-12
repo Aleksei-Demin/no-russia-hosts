@@ -1,6 +1,3 @@
-# https://4pda.to/forum/index.php?showforum=1192
-4pda.to
-
 # platform.activestate.com
 activestate.com
 
@@ -15,9 +12,6 @@ apple.com
 
 # bits.avcdn.net
 avcdn.net
-
-# bing.com/chat
-bing.com
 
 # portal.bgpmon.net
 bgpmon.net
@@ -62,21 +56,11 @@ furaffinity.net
 # support.ts.fujitsu.com
 fujitsu.com
 
-# Gemini
-gemini.google.com
-googleapis.com
-
-# Github Copilot
-github.com
-
 # https://packages.gitlab.com/gitlab/gitlab-ee/
 gitlab.com
 
 # gllto.glpals.com
 glpals.com
-
-# mviskarada.gov.ua
-gov.ua
 
 # apt.grafana.com
 # dl.grafana.com
@@ -112,21 +96,12 @@ joyreactor.cc
 # documentation.meraki.com
 meraki.com
 
-# copilot.microsoft.com
-# software-static.download.prss.microsoft.com
-microsoft.com
-
 # account.mongodb.com
 # cloud.mongodb.com
 mongodb.com
 
 # files.oaiusercontent.com
 oaiusercontent.com
-
-# api.openai.com
-# auth0.openai.com
-# chat.openai.com
-openai.com
 
 # cloud.oracle.com (oraclecloud.com blocks login attempts from Russia)
 oracle.com
@@ -197,7 +172,6 @@ analog.com
 angryemailtranslator.com
 annimon.com
 aplawrence.com
-bard.google.com
 bestbuy.com
 blizzardwatch.com
 bluesky-soft.com
@@ -206,7 +180,6 @@ bradyid.com
 cambiumnetworks.com
 canva.com
 certifytheweb.com
-chatgpt.com
 citrix.com
 claude.ai
 clevelandclinic.org
